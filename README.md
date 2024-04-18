@@ -1,5 +1,3 @@
-
-
 <h1>Data Structures and Algorithms (DSA) Implementation</h1>
 Welcome to the Data Structures and Algorithms (DSA) repository! Here, we explore various data structures and algorithms and provide implementations in different programming languages.
 
@@ -9,7 +7,7 @@ This repository serves as a comprehensive resource for learning and implementing
 <h1>Content</h1>
 The repository is organized into directories based on different data structures and algorithms. Each directory contains implementations in various programming languages, along with explanations and examples. Here's an overview of what you'll find:
 
-Data Structures:
+>Data Structures:
 Array
 Linked List
 Stack
