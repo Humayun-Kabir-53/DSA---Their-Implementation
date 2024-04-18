@@ -79,6 +79,6 @@ License
 This repository is licensed under the MIT License.
 
 <h1>Contact</h1>
-For questions or suggestions, contact me at <a>humayun1729@gmail.com</a>
+For questions or suggestions, contact me at <a href="humayun1729@gmail.com">humayun1729@gmail.com</a>
 
 Happy coding!
